@@ -1,0 +1,25 @@
+nav {
+  z-index: 1001;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed !important;
+  margin-top: 10px;
+  margin: 10px;
+}
+
+.navContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 10vh;
+}
+
+.navbar {
+  min-width: 90vw;
+  margin-left: 5vw;
+  z-index: 1002;
+}
+/*# sourceMappingURL=navBar.css.map */
